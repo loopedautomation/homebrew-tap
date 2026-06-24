@@ -7,7 +7,7 @@ cask "looped-whisper" do
   desc "Local voice transcription for macOS — on-device Whisper models"
   homepage "https://github.com/loopedautomation/whisper"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "LoopedWhisper.app"
