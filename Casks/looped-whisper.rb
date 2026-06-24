@@ -1,8 +1,8 @@
 cask "looped-whisper" do
-  version "0.1.1"
-  sha256 "aa42ffa89c8630538c8e6f2d96b492a9460da4343e9fc293fd857afa98b31e3b"
+  version "0.1.2"
+  sha256 "80bca8b109d948711233c7306ebdefb3f0c7dba316fa6ae52cd3e6489374a153"
 
-  url "https://github.com/loopedautomation/whisper/releases/download/v#{version}/LoopedWhisper-#{version}.zip"
+  url "https://github.com/loopedautomation/whisper/releases/download/v#{version}/LoopedWhisper-#{version}.dmg"
   name "Looped Whisper"
   desc "Local voice transcription for macOS — on-device Whisper models"
   homepage "https://github.com/loopedautomation/whisper"
