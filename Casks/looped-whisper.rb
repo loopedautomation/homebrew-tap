@@ -1,6 +1,6 @@
 cask "looped-whisper" do
-  version "0.4.0"
-  sha256 "7dd05f14770224a5412c748af0968c56f8c0b52bee5fa6653e6afa445ae94359"
+  version "0.5.0"
+  sha256 "3270c37dd99bc11fe945ef18cf6f316310f479d2bafe76425d2fa5a50d5360ff"
 
   url "https://github.com/loopedautomation/whisper/releases/download/v#{version}/LoopedWhisper-#{version}.dmg"
   name "Looped Whisper"
